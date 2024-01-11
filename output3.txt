@@ -1,0 +1,153 @@
+Patient with ID [1] waits in reception queue
+Patient with ID [3] waits in reception queue
+Patient with ID [2] waits in reception queue
+Patient with ID [4] waits in reception queue
+Patient with ID [5] waits in reception queue
+Patient with ID [6] waits in reception queue
+Patient with ID [7] waits in reception queue
+Patient with ID [8] waits in reception queue
+Patient with ID [9] waits in reception queue
+Patient with ID [10] waits in reception queue
+Patient with ID [11] waits in reception queue
+Patient with ID [12] waits in reception queue
+Patient with ID [13] waits in reception queue
+Patient with ID [14] waits in reception queue
+Patient with ID [15] waits in reception queue
+Patient with ID [16] waits in reception queue
+Patient with ID [17] waits in reception queue
+Patient with ID [18] waits in reception queue
+Patient with ID [19] waits in reception queue
+Patient with ID [20] waits in reception queue
+Doctor on duty with ID [1] see patient with ID [1]
+Doctor on duty with ID [2] see patient with ID [2]
+Therapist see patient with ID [2]
+Therapist see patient with ID [1]
+Patient with ID [2] is already at home
+Patient with ID [3] waits in reception queue
+Patient with ID [1] is already at home
+Patient with ID [15] waits in reception queue
+Patient with ID [14] waits in reception queue
+Patient with ID [13] waits in reception queue
+Patient with ID [12] waits in reception queue
+Patient with ID [11] waits in reception queue
+Patient with ID [10] waits in reception queue
+Patient with ID [9] waits in reception queue
+Patient with ID [8] waits in reception queue
+Patient with ID [7] waits in reception queue
+Patient with ID [6] waits in reception queue
+Patient with ID [5] waits in reception queue
+Patient with ID [4] waits in reception queue
+Doctor on duty with ID [2] see patient with ID [3]
+Patient with ID [20] waits in reception queue
+Patient with ID [19] waits in reception queue
+Patient with ID [18] waits in reception queue
+Patient with ID [17] waits in reception queue
+Patient with ID [16] waits in reception queue
+Doctor on duty with ID [1] see patient with ID [4]
+Therapist see patient with ID [3]
+Dentist see patient with ID [4]
+Doctor on duty with ID [1] see patient with ID [5]
+Surgeon see patient with ID [5]
+Patient with ID [3] is already at home
+Patient with ID [4] is already at home
+Patient with ID [5] is already at home
+Patient with ID [6] waits in reception queue
+Patient with ID [7] waits in reception queue
+Patient with ID [8] waits in reception queue
+Patient with ID [9] waits in reception queue
+Patient with ID [10] waits in reception queue
+Patient with ID [11] waits in reception queue
+Patient with ID [12] waits in reception queue
+Patient with ID [13] waits in reception queue
+Patient with ID [14] waits in reception queue
+Patient with ID [15] waits in reception queue
+Patient with ID [16] waits in reception queue
+Patient with ID [17] waits in reception queue
+Patient with ID [18] waits in reception queue
+Patient with ID [19] waits in reception queue
+Patient with ID [20] waits in reception queue
+Doctor on duty with ID [2] see patient with ID [6]
+Doctor on duty with ID [1] see patient with ID [7]
+Dentist see patient with ID [7]
+Surgeon see patient with ID [6]
+Patient with ID [15] waits in reception queue
+Patient with ID [14] waits in reception queue
+Patient with ID [13] waits in reception queue
+Patient with ID [12] waits in reception queue
+Patient with ID [11] waits in reception queue
+Patient with ID [10] waits in reception queue
+Patient with ID [9] waits in reception queue
+Patient with ID [8] waits in reception queue
+Patient with ID [7] is already at home
+Patient with ID [6] is already at home
+Patient with ID [20] waits in reception queue
+Patient with ID [19] waits in reception queue
+Patient with ID [18] waits in reception queue
+Patient with ID [17] waits in reception queue
+Patient with ID [16] waits in reception queue
+Doctor on duty with ID [2] see patient with ID [8]
+Doctor on duty with ID [1] see patient with ID [9]
+Therapist see patient with ID [8]
+Patient with ID [8] is already at home
+Patient with ID [9] waits in therapist queue
+Patient with ID [10] waits in reception queue
+Patient with ID [11] waits in reception queue
+Patient with ID [12] waits in reception queue
+Patient with ID [13] waits in reception queue
+Patient with ID [14] waits in reception queue
+Patient with ID [15] waits in reception queue
+Doctor on duty with ID [1] see patient with ID [10]
+Patient with ID [16] waits in reception queue
+Patient with ID [17] waits in reception queue
+Patient with ID [18] waits in reception queue
+Patient with ID [19] waits in reception queue
+Patient with ID [20] waits in reception queue
+Doctor on duty with ID [2] see patient with ID [11]
+Therapist see patient with ID [9]
+Surgeon see patient with ID [10]
+Dentist see patient with ID [11]
+Doctor on duty with ID [1] see patient with ID [12]
+Doctor on duty with ID [2] see patient with ID [13]
+Doctor on duty with ID [1] see patient with ID [14]
+Dentist see patient with ID [12]
+Surgeon see patient with ID [13]
+Dentist see patient with ID [14]
+Patient with ID [15] waits in reception queue
+Patient with ID [14] is already at home
+Patient with ID [13] is already at home
+Patient with ID [12] is already at home
+Patient with ID [11] is already at home
+Patient with ID [10] is already at home
+Patient with ID [9] is already at home
+Patient with ID [20] waits in reception queue
+Patient with ID [19] waits in reception queue
+Patient with ID [18] waits in reception queue
+Patient with ID [17] waits in reception queue
+Patient with ID [16] waits in reception queue
+Doctor on duty with ID [1] see patient with ID [15]
+Doctor on duty with ID [2] see patient with ID [16]
+Patient with ID [16] waits in surgeon queue
+Patient with ID [17] waits in reception queue
+Patient with ID [18] waits in reception queue
+Patient with ID [19] waits in reception queue
+Patient with ID [20] waits in reception queue
+Surgeon see patient with ID [15]
+Patient with ID [15] is already at home
+Doctor on duty with ID [1] see patient with ID [17]
+Doctor on duty with ID [2] see patient with ID [18]
+Dentist see patient with ID [18]
+Patient with ID [20] waits in reception queue
+Surgeon see patient with ID [16]
+Patient with ID [18] is already at home
+Patient with ID [17] waits in surgeon queue
+Patient with ID [16] is already at home
+Patient with ID [19] waits in reception queue
+Doctor on duty with ID [2] see patient with ID [19]
+Doctor on duty with ID [1] see patient with ID [20]
+Therapist see patient with ID [19]
+Surgeon see patient with ID [17]
+Patient with ID [19] is already at home
+Patient with ID [17] is already at home
+Patient with ID [20] waits in surgeon queue
+Surgeon see patient with ID [20]
+Patient with ID [20] is already at home

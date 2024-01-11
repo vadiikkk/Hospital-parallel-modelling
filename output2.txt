@@ -1,0 +1,54 @@
+Patient with ID [1] waits in reception queue
+Patient with ID [2] waits in reception queue
+Patient with ID [3] waits in reception queue
+Patient with ID [4] waits in reception queue
+Patient with ID [5] waits in reception queue
+Patient with ID [6] waits in reception queue
+Patient with ID [7] waits in reception queue
+Patient with ID [8] waits in reception queue
+Patient with ID [9] waits in reception queue
+Patient with ID [10] waits in reception queue
+Doctor on duty with ID [1] see patient with ID [1]
+Doctor on duty with ID [2] see patient with ID [2]
+Therapist see patient with ID [1]
+Doctor on duty with ID [1] see patient with ID [3]
+Dentist see patient with ID [3]
+Doctor on duty with ID [2] see patient with ID [4]
+Doctor on duty with ID [1] see patient with ID [5]
+Dentist see patient with ID [4]
+Patient with ID [10] waits in reception queue
+Patient with ID [1] is already at home
+Patient with ID [9] waits in reception queue
+Patient with ID [8] waits in reception queue
+Patient with ID [7] waits in reception queue
+Patient with ID [6] waits in reception queue
+Patient with ID [5] waits in surgeon queue
+Patient with ID [4] is already at home
+Patient with ID [3] is already at home
+Patient with ID [2] waits in surgeon queue
+Surgeon see patient with ID [2]
+Doctor on duty with ID [2] see patient with ID [6]
+Doctor on duty with ID [1] see patient with ID [7]
+Dentist see patient with ID [6]
+Patient with ID [2] is already at home
+Patient with ID [6] is already at home
+Patient with ID [5] waits in surgeon queue
+Patient with ID [7] waits in dentist queue
+Patient with ID [8] waits in reception queue
+Patient with ID [9] waits in reception queue
+Patient with ID [10] waits in reception queue
+Surgeon see patient with ID [5]
+Doctor on duty with ID [2] see patient with ID [8]
+Dentist see patient with ID [7]
+Dentist see patient with ID [8]
+Patient with ID [7] is already at home
+Patient with ID [5] is already at home
+Patient with ID [10] waits in reception queue
+Patient with ID [9] waits in reception queue
+Patient with ID [8] is already at home
+Doctor on duty with ID [1] see patient with ID [9]
+Doctor on duty with ID [2] see patient with ID [10]
+Surgeon see patient with ID [9]
+Dentist see patient with ID [10]
+Patient with ID [9] is already at home
+Patient with ID [10] is already at home

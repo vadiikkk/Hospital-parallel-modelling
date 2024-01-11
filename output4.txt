@@ -1,0 +1,4 @@
+Patient with ID [1] waits in reception queue
+Doctor on duty with ID [2] see patient with ID [1]
+Dentist see patient with ID [1]
+Patient with ID [1] is already at home
